@@ -1,0 +1,7 @@
+What we are going to do in it.
+
+1. Create header for the sample app that is Calisthenics app.
+
+2. We will create two components (Header and Landing).
+
+3. We will use Bootstrap library for CSS.
